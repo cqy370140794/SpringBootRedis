@@ -22,7 +22,7 @@ public class SpringRedisTest {
     @Test
     public void testRedisTemplate(){
         //通过redistemplate向redis数据库种插入对应的键值对
-        redisTemplate.opsForValue().set("ascas","asfdas");
+        redisTemplate.opsForValue().set("asc的三分公司都给as","asfdas");
     }
     @Test
     public void testRedisTemplates(){
