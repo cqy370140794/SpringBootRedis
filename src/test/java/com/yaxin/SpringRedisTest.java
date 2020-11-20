@@ -1,4 +1,4 @@
-package com.baizhi;
+package com.yaxin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
